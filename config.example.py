@@ -1,0 +1,2 @@
+
+token = "" # Discord Bot Token
